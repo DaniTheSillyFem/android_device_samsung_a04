@@ -1,0 +1,17 @@
+[
+  {
+    "repository": "DaniTheSillyFem/android_vendor_samsung_a04",
+    "target_path": "vendor/samsung/a04",
+    "branch": "lineage-22.2"
+  },
+  {
+    "repository": "DaniTheSillyFem/android_kernel_samsung_a04-LineageOS",
+    "target_path": "kernel/samsung/a04",
+    "branch": "lineage-22.2"
+  },
+  {
+    "repository": "LineageOS/android_hardware_mediatek",
+    "target_path": "hardware/mediatek",
+    "branch": "lineage-22.2"
+  }
+]
