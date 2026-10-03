@@ -85,10 +85,10 @@ vendor/lib64/libvibrator.so
 vendor/lib64/spatializer-aidl-cpp.so
 
 # Audio configs
-etc/audio_effects.conf
-etc/audio_effects.xml
-etc/audio_effects_common.conf
-etc/audio_effects_model.xml
+system/etc/audio_effects.conf
+system/etc/audio_effects.xml
+system/etc/audio_effects_common.conf
+system/etc/audio_effects_model.xml
 system_ext/etc/a2dp_audio_policy_configuration.xml
 system_ext/etc/a2dp_in_audio_policy_configuration.xml
 system_ext/etc/audio_policy_configuration.xml
@@ -724,27 +724,27 @@ vendor/lib/hw/local_time.default.so
 vendor/lib64/hw/local_time.default.so
 
 # Media
-etc/seccomp_policy/mediacodec.policy
-lib/libdatasource.so
-lib/libdatasource_local_cache.so
-lib/libmedia_codeclist.so
-lib/libomafldrm.so
-lib/libstagefright_aidl_bufferpool2.so
-lib/libstagefright_bufferpool@2.0.1.so
-lib/libstagefright_codecbase.so
-lib/libstagefright_framecapture_utils.so
-lib/libstagefright_httplive_sec.so
-lib/libstagefright_surface_utils.so
-lib64/libdatasource.so
-lib64/libdatasource_local_cache.so
-lib64/libmedia_codeclist.so
-lib64/libomafldrm.so
-lib64/libstagefright_aidl_bufferpool2.so
-lib64/libstagefright_bufferpool@2.0.1.so
-lib64/libstagefright_codecbase.so
-lib64/libstagefright_framecapture_utils.so
-lib64/libstagefright_httplive_sec.so
-lib64/libstagefright_surface_utils.so
+system/etc/seccomp_policy/mediacodec.policy
+system/lib/libdatasource.so
+system/lib/libdatasource_local_cache.so
+system/lib/libmedia_codeclist.so
+system/lib/libomafldrm.so
+system/lib/libstagefright_aidl_bufferpool2.so
+system/lib/libstagefright_bufferpool@2.0.1.so
+system/lib/libstagefright_codecbase.so
+system/lib/libstagefright_framecapture_utils.so
+system/lib/libstagefright_httplive_sec.so
+system/lib/libstagefright_surface_utils.so
+system/lib64/libdatasource.so
+system/lib64/libdatasource_local_cache.so
+system/lib64/libmedia_codeclist.so
+system/lib64/libomafldrm.so
+system/lib64/libstagefright_aidl_bufferpool2.so
+system/lib64/libstagefright_bufferpool@2.0.1.so
+system/lib64/libstagefright_codecbase.so
+system/lib64/libstagefright_framecapture_utils.so
+system/lib64/libstagefright_httplive_sec.so
+system/lib64/libstagefright_surface_utils.so
 vendor/bin/hw/android.hardware.media.c2@1.2-mediatek
 vendor/bin/hw/android.hardware.media.c2@1.2-mediatek-64b
 vendor/bin/hw/android.hardware.media.omx@1.0-service
@@ -889,9 +889,9 @@ vendor/lib64/vendor.samsung.hardware.radio@2.1.so
 vendor/lib64/vendor.samsung.hardware.radio@2.2.so
 
 # Radio (IMS)
-bin/charon
-lib64/libcharon.so
-lib64/libstrongswan.so
+system/bin/charon
+system/lib64/libcharon.so
+system/lib64/libstrongswan.so
 system_ext/lib/vendor.mediatek.hardware.videotelephony-V1-ndk.so
 system_ext/lib/vendor.mediatek.hardware.videotelephony@1.0.so
 system_ext/lib64/vendor.mediatek.hardware.videotelephony-V1-ndk.so
