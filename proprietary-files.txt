@@ -861,6 +861,7 @@ vendor/lib/libpower_timer.so
 vendor/lib/vendor.mediatek.hardware.mtkpower@1.0.so;MODULE_SUFFIX=_vendor
 vendor/lib/vendor.mediatek.hardware.mtkpower@1.1.so;MODULE_SUFFIX=_vendor
 vendor/lib/vendor.mediatek.hardware.mtkpower@1.2.so;MODULE_SUFFIX=_vendor
+vendor/lib64/android.hardware.power-service-mediatek.so
 vendor/lib64/hw/power.default.so
 vendor/lib64/hw/vendor.mediatek.hardware.mtkpower@1.2-impl.so
 vendor/lib64/libpower_timer.so
